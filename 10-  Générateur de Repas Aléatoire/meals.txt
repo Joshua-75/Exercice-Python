@@ -1,0 +1,6 @@
+Sandwich
+Pizza
+Burger
+Pasta
+French Fries
+Salade
